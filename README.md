@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of acpl/flarum-db-snapshots.** Not for installation: use [Packagist](https://packagist.org/packages/acpl/flarum-db-snapshots) or the [upstream repository](https://github.com/android-com-pl/flarum-db-snapshots).
 
-**0** versions archived · Latest: [`v2.0.0`](https://github.com/flarchive/android-com-pl-flarum-db-snapshots/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^v2.0`
+**8** versions archived · Latest: [`v2.0.0`](https://github.com/flarchive/android-com-pl-flarum-db-snapshots/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^v2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-03-10 | `^v1.8.14` | [Browse](https://github.com/flarchive/android-com-pl-flarum-db-snapshots/tree/archive/v1.0.0) |
+| `v1.0.1` | 2026-03-11 | `^v1.8.14` | [Browse](https://github.com/flarchive/android-com-pl-flarum-db-snapshots/tree/archive/v1.0.1) |
+| `v1.1.0` | 2026-03-29 | `^v1.8.14` | [Browse](https://github.com/flarchive/android-com-pl-flarum-db-snapshots/tree/archive/v1.1.0) |
+| `v1.2.0` | 2026-03-29 | `^v1.8.14` | [Browse](https://github.com/flarchive/android-com-pl-flarum-db-snapshots/tree/archive/v1.2.0) |
+| `v2.0.0-beta.1` | 2026-03-23 | `^v2.0.0-beta.8` | [Browse](https://github.com/flarchive/android-com-pl-flarum-db-snapshots/tree/archive/v2.0.0-beta.1) |
+| `v2.0.0-beta.2` | 2026-03-29 | `^v2.0.0-beta.8` | [Browse](https://github.com/flarchive/android-com-pl-flarum-db-snapshots/tree/archive/v2.0.0-beta.2) |
+| `v2.0.0-beta.3` | 2026-03-29 | `^v2.0.0-beta.8` | [Browse](https://github.com/flarchive/android-com-pl-flarum-db-snapshots/tree/archive/v2.0.0-beta.3) |
+| `v2.0.0` | 2026-11-07 | `^v2.0` | [Browse](https://github.com/flarchive/android-com-pl-flarum-db-snapshots/tree/archive/v2.0.0) |
 
 Catalog entry: [packages/android-com-pl-flarum-db-snapshots.json](https://github.com/flarchive/archive-index/blob/main/packages/android-com-pl-flarum-db-snapshots.json)
 
